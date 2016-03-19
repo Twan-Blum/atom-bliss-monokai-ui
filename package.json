@@ -2,7 +2,7 @@
   "private": true,
   "name": "bliss-monokai-ui",
   "theme": "ui",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A monokai UI theme for Atom",
   "license": "MIT",
   "repository": "https://github.com/Twan-Blum/atom-bliss-monokai-ui",
